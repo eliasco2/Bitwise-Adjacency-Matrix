@@ -1,0 +1,7 @@
+/workspaces/cs225/bitwise_adjMatrix/build/CMakeFiles/test.dir
+/workspaces/cs225/bitwise_adjMatrix/build/CMakeFiles/main.dir
+/workspaces/cs225/bitwise_adjMatrix/build/CMakeFiles/edit_cache.dir
+/workspaces/cs225/bitwise_adjMatrix/build/CMakeFiles/rebuild_cache.dir
+/workspaces/cs225/bitwise_adjMatrix/build/src/CMakeFiles/src.dir
+/workspaces/cs225/bitwise_adjMatrix/build/src/CMakeFiles/edit_cache.dir
+/workspaces/cs225/bitwise_adjMatrix/build/src/CMakeFiles/rebuild_cache.dir
