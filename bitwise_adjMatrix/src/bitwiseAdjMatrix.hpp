@@ -1,5 +1,3 @@
-#include "assert.h"
-
 template <class T>
 BitwiseAdjMatrix<T>::BitwiseAdjMatrix(int n) : _size(n) {
     int area = n*n;
